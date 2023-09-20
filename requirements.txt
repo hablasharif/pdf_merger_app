@@ -1,5 +1,4 @@
 PyPDF2
-io
 base64
  
  
